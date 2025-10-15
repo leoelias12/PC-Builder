@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f9f03fc-6852-4597-8994-86b128f55607" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/catalog_currentgen.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/catalog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/io_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pc_builder/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PC Builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PC Builder.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
